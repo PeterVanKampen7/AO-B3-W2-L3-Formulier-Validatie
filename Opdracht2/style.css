@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#content{
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    padding: 30px;
+    background-color: teal;
+}
+
+h1, p{
+    color: white;
+    margin: 10px;
+}
+
+input{
+    margin: 10px;
+}
